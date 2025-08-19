@@ -1,6 +1,3 @@
-# Predictive-Analytics-for-Stock-Market-Using-LSTM
-
-
 # Google Stock Price Prediction using LSTM
 
 
