@@ -73,14 +73,14 @@ You can run the project by executing the `stock_price_pred.ipynb` file in a Jupy
 ### Moving Averages
 
 The 100-day moving average is plotted against the closing price to visualize the stock's trend over time.
-
-!(https://i.imgur.com/vH3I4jF.png)
+<img width="676" height="505" alt="image" src="https://github.com/user-attachments/assets/4c5b06d2-93ba-4abd-b558-6908db82d165" />
 
 ### Prediction Results
 
 The final graph shows a comparison between the original stock prices and the prices predicted by the LSTM model. The model successfully captures the general trend of the stock price, indicating its effectiveness.
 
-!(https://i.imgur.com/k2e4f7o.png)
+<img width="850" height="679" alt="image" src="https://github.com/user-attachments/assets/34015782-e6b4-4b7d-9c2b-c9a304566363" />
+
 
 ---
 
