@@ -3,9 +3,7 @@
 
 # Google Stock Price Prediction using LSTM
 
-![GitHub language count](https://img.shields.io/github/languages/count/your-username/your-repo-name)
-![GitHub top language](https://img.shields.io/github/languages/top/your-username/your-repo-name)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
+
 
 ## Overview
 
